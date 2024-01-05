@@ -38,7 +38,7 @@ $ ./my_radar -h
 
 
 # Should
-The program should display and update a timer in seconds at the top-right corner of the window.
+[] The program should display and update a timer in seconds at the top-right corner of the window.
 
 [x] The program should stop once all aircrafts have landed on or have been destroyed.
 
