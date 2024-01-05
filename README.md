@@ -42,7 +42,7 @@ $ ./my_radar -h
 
 [x] The program should stop once all aircrafts have landed on or have been destroyed.
 
-[] Aircrafts should be able to take off after a given delay.
+[x] Aircrafts should be able to take off after a given delay.
 
 [x] Aircrafts and control towers should be displayed using sprites.
 
