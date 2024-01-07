@@ -3,7 +3,7 @@
 # Before cloning the repository
 Having the csfml library installed: https://www.sfml-dev.org/download/csfml/
 
-# How to run the game
+# How to run the project
 ```
 $ ./my_radar path/to/file
 OR
