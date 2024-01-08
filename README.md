@@ -12,6 +12,15 @@ $ ./my_radar -h
 + Example files can be found in the script/ folder
   
 # Preview
+1. Starting screen
+![Normal Screen](ReadMeImgs/Normal.png)
+
+2. Gameplay
+![Without Sprites_S](ReadMeImgs/S.png)
+
+3. Starting screen
+![Without_Box_L](ReadMeImgs/L.png)
+
 
 # Requirements
 # Must
