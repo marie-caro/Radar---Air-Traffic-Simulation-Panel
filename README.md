@@ -15,10 +15,10 @@ $ ./my_radar -h
 1. Starting screen
 ![Normal Screen](ReadMeImgs/Normal.png)
 
-2. Gameplay
+2. Without Sprites S
 ![Without Sprites_S](ReadMeImgs/S.png)
 
-3. Starting screen
+3. Without Box
 ![Without_Box_L](ReadMeImgs/L.png)
 
 
